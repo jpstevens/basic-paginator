@@ -1,6 +1,7 @@
 # Basic Paginator
 
 [![Build Status](https://secure.travis-ci.org/jpstevens/basic-paginator.png?branch=master)](https://travis-ci.org/jpstevens/basic-paginator)
+![Downloads/month](http://img.shields.io/npm/dm/basic-paginator.svg)
 
 Usage:
 ```javascript
